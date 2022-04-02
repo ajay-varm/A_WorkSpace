@@ -2,9 +2,11 @@ import React from "react";
 
 function ContactUs() {
   return (
-    <div>
-      <a>hello ContactUs</a>
-    </div>
+    <>
+      <h1>
+        <a>hello ContactUs</a>
+      </h1>
+    </>
   );
 }
 
